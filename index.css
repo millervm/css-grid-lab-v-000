@@ -16,6 +16,7 @@ body {
 .grid-item {
   background-color: grey;
   border: 1px solid black;
+  grid-area: footer-start / 1 / footer-end / 4;
 }
 
 /* add the .bigItem class */
